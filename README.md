@@ -1,4 +1,4 @@
-![Screenshot 2025-04-05 214153](https://github.com/user-attachments/assets/bf94763e-debb-4ab5-bf7b-cd8d05bfc24b)![Screenshot 2025-04-05 214153](https://github.com/user-attachments/assets/21f5dde4-127b-4a27-9955-f5b8e7acc005)# 🔍 SHL Assessment Recommendation Engine
+# 🔍 SHL Assessment Recommendation Engine
 
 This is a **content-based recommendation system** built using Python and Flask that intelligently suggests SHL assessments based on user queries. It leverages the SHL product catalog and offers a simple web interface for seamless recommendations.
 
@@ -88,9 +88,11 @@ Visit [http://127.0.0.1:5000](http://127.0.0.1:5000) to use the application.
 
 ### 🏠 Home Page  
 ![Homepage](assets/homepage.png)
+![Screenshot 2025-04-05 214153](https://github.com/user-attachments/assets/bf94763e-debb-4ab5-bf7b-cd8d05bfc24b)
 
 ### 📊 Results Page  
 ![Results](assets/results.png)
+![Screenshot 2025-04-05 214153](https://github.com/user-attachments/assets/21f5dde4-127b-4a27-9955-f5b8e7acc005)
 
 ---
 
